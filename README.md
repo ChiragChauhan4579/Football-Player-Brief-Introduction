@@ -1,5 +1,7 @@
 # Football-Player-Brief-Introduction
 
+![img](https://github.com/ChiragChauhan4579/Football-Player-Brief-Introduction/blob/master/image.png)
+
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
 - hello_world - Code for the application's Lambda function.
